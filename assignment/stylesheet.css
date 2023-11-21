@@ -1,0 +1,28 @@
+.info {
+    /* background-color: blueviolet; */
+    width: 50vw;
+    background-color: white;
+    margin: auto;
+}
+
+h2 {
+    background-color: chocolate;
+    color: blue;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    text-align: center;
+}
+
+img {
+    width: 100%; 
+    height: 100%;
+    object-fit: contain;
+}
+
+h3 {
+    background-color: chocolate;
+    color: blue;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    text-align: center;
+}
